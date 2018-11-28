@@ -1,5 +1,3 @@
-# ts-promise
+# ts-svd
 
-A simple promise implementation.
-
-Check `test/test-output`(promise/a+ test suite output). 
+A simple svd implementation.
